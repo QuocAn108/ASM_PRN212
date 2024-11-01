@@ -1,0 +1,52 @@
+﻿<Window x:Class="TourManagement.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourManagement"
+        mc:Ignorable="d"
+        Title="Create Tour" Height="476" Width="940" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Tour ID:" Grid.Row="0" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="TourIDTextBox" Grid.Row="0" Grid.Column="1" IsReadOnly="True" Margin="22,4,0,15" Style="{StaticResource TextBoxDetail}"/>
+
+        <Label Content="Tour Name:" Grid.Row="1" Grid.Column="0" Margin="0,10,0,58" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="TourNameTextBox" Grid.Row="1" Grid.Column="1" Margin="22,0,0,97" Style="{StaticResource TextBoxDetail}"/>
+
+        <Label Content="Description:" Grid.Row="1" Grid.Column="0" Margin="0,45,0,15" Grid.RowSpan="2" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="DescriptionTextBox" Grid.Row="1" Grid.Column="1" Height="100" AcceptsReturn="True" Margin="22,48,0,10" Grid.RowSpan="2" Style="{StaticResource TextBoxDetail}"/>
+
+        <Label Content="Price:" Grid.Row="3" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="PriceTextBox" Grid.Row="3" Grid.Column="1" Margin="22,4,0,14" />
+
+        <Label Content="Number of Participants:" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,10,733,10" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="ParticipantsTextBox" Grid.Row="4" Grid.Column="1" Margin="22,4,0,14" Style="{StaticResource TextBoxDetail}"/>
+
+        <Label Content="Farm ID:" Grid.Row="5" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
+        <ComboBox x:Name="FarmIDComboBox" Grid.Row="5" Grid.Column="1" Margin="22,9,0,10">
+            <ComboBoxItem Content="Farm 1"/>
+            <ComboBoxItem Content="Farm 2"/>
+            <ComboBoxItem Content="Farm 3"/>
+        </ComboBox>
+
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Style="{StaticResource StackPanelDetail}">
+            <Button x:Name="SaveButton" Content="Save" Style="{StaticResource ButtonDetail}"/>
+            <Button x:Name="QuitButton" Content="Quit" Style="{StaticResource ButtonDetail}"/>
+        </StackPanel>
+    </Grid>
+</Window>

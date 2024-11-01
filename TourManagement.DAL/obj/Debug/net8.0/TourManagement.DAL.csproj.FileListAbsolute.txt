@@ -1,0 +1,14 @@
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.deps.json
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.runtimeconfig.json
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.dll
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.pdb
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.AssemblyInfo.cs
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.dll
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\refint\TourManagement.DAL.dll
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.pdb
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.genruntimeconfig.cache
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\ref\TourManagement.DAL.dll

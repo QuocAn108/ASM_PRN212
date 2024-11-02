@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,6 +93,10 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ViewLocation.xaml",
@@ -101,8 +105,7 @@
               "ToolTip": "D:\\C#\\TourManagement\\ViewLocation.xaml",
               "RelativeToolTip": "TourManagement\\ViewLocation.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T01:53:16.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:53:16.392Z"
             },
             {
               "$type": "Document",
@@ -113,8 +116,7 @@
               "ToolTip": "D:\\C#\\TourManagement\\MainWindow.xaml",
               "RelativeToolTip": "TourManagement\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T01:53:14.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:53:14.592Z"
             },
             {
               "$type": "Document",
@@ -125,8 +127,7 @@
               "ToolTip": "D:\\C#\\TourManagement\\DetailWindow.xaml",
               "RelativeToolTip": "TourManagement\\DetailWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T01:53:12.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:53:12.14Z"
             },
             {
               "$type": "Document",
@@ -137,8 +138,7 @@
               "ToolTip": "D:\\C#\\TourManagement\\DetailLocation.xaml",
               "RelativeToolTip": "TourManagement\\DetailLocation.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T01:53:09.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:53:09.649Z"
             },
             {
               "$type": "Document",
@@ -149,8 +149,7 @@
               "ToolTip": "D:\\C#\\TourManagement\\Login.xaml",
               "RelativeToolTip": "TourManagement\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-02T01:52:04.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:52:04.041Z"
             },
             {
               "$type": "Document",
@@ -174,8 +173,7 @@
               "RelativeToolTip": "TourManagement\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-02T01:50:52.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T01:50:52.316Z"
             },
             {
               "$type": "Document",

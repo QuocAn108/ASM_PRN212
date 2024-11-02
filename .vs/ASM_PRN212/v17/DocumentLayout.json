@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\",
+  "WorkspaceRootPath": "D:\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\viewtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\viewlocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewlocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\detaillocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detaillocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -37,12 +61,129 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewLocation.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\ViewLocation.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\ViewLocation.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\ViewLocation.xaml",
+              "RelativeToolTip": "TourManagement\\ViewLocation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T01:53:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\MainWindow.xaml",
+              "RelativeToolTip": "TourManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T01:53:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\DetailWindow.xaml",
+              "RelativeToolTip": "TourManagement\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T01:53:12.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailLocation.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\DetailLocation.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\DetailLocation.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\DetailLocation.xaml",
+              "RelativeToolTip": "TourManagement\\DetailLocation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T01:53:09.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\Login.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\Login.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\Login.xaml",
+              "RelativeToolTip": "TourManagement\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T01:52:04.041Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ViewTourDestination.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\ViewTourDestination.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\ViewTourDestination.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\ViewTourDestination.xaml",
+              "RelativeToolTip": "TourManagement\\ViewTourDestination.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-02T01:50:48.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TourManagement\\appsettings.json",
+              "ToolTip": "D:\\C#\\TourManagement\\appsettings.json",
+              "RelativeToolTip": "TourManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T01:50:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\App.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\App.xaml",
               "RelativeDocumentMoniker": "TourManagement\\App.xaml",
-              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\App.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\App.xaml",
               "RelativeToolTip": "TourManagement\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-01T09:34:37.747Z",

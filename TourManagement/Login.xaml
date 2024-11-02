@@ -27,8 +27,8 @@
                     </Grid.ColumnDefinitions>
                     <Image Source="C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\Img\pw.png" 
                            Stretch="Uniform" Height="33" Width="36" Grid.Column="0" Margin="0,0,10,0"/>
-                    <TextBox x:Name="PasswordTextBox" Text="Password" Margin="0,0,0,0" Height="30" Grid.Column="1" 
-                             VerticalAlignment="Center" GotFocus="PasswordTextBox_GotFocus" LostFocus="PasswordTextBox_LostFocus"/>
+                    <TextBox x:Name="PasswordTextBox" Text="Password" Margin="10,0,0,0" Height="30" 
+                             VerticalAlignment="Center" GotFocus="PasswordTextBox_GotFocus" LostFocus="PasswordTextBox_LostFocus" Grid.ColumnSpan="2"/>
                 </Grid>
                 <Grid Margin="0,0,0,0" Height="Auto">
                     <Grid.ColumnDefinitions>

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,34 +9,15 @@ using TourManagement.DAL.Model;
 
 namespace TourManagement.DAL.Repositories
 {
-    public class LocationRepository
+    public class TourRepository
     {
-        private ApplicationDBContext _context;
-        public List<Location> GetAll()
-        {
-            _context = new ApplicationDBContext();
-            return _context.Locations.ToList();
-        }
-        public void Add(Location x)
-        {
-            _context = new();
-            _context.Locations.Add(x);
-            _context.SaveChanges();
-        }
-        public void Update(Location x)
-        {
-            _context = new();
-            _context.Locations.Update(x);  
-            _context.SaveChanges();         
-        }
+        private ApplicationDBContext? _context;
 
-        public void Delete(Location x)
+        public List<Tour> GetAllTour()
         {
             _context = new();
-            _context.Locations.Remove(x); 
-            _context.SaveChanges();           
+            return _context.Tours.ToList();
         }
-
         public void AddTour(Tour x)
         {
             _context = new();
@@ -56,6 +38,8 @@ namespace TourManagement.DAL.Repositories
             _context.Tours.Remove(x);
             _context.SaveChanges();
         }
+
+
 
 
     }

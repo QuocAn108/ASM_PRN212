@@ -15,5 +15,22 @@ namespace TourManagement.BLL.Services
         {
             return _memberRepo.GetUser(email, password);
         }
+        public List<Member> GetAllUser()
+        {
+            return _memberRepo.GetAll();
+        }
+        public void AddUser(Member x)
+        {
+            _memberRepo.Add(x);
+        }
+        public void UpdateUser(Member x)
+        {
+            _memberRepo.Update(x);
+        }
+
+        public void DeleteUser(Member x)
+        {
+            _memberRepo.Delete(x);
+        }
     }
 }

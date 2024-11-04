@@ -12,3 +12,4 @@ C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\refin
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.pdb
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.genruntimeconfig.cache
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\ref\TourManagement.DAL.dll
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.sourcelink.json

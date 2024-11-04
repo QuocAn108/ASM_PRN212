@@ -79,7 +79,8 @@
         <TextBox x:Name="RegionTextBox" 
              Grid.Row="4" 
              Grid.Column="1"
-             Margin="0,5,0,5"/>
+             Margin="0,5,0,5"
+             Style="{StaticResource TextBoxDetail}"/>
 
         <Label Content="Type:" 
            Grid.Row="5" 

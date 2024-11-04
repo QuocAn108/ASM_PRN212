@@ -10,6 +10,9 @@
     <Compile Update="DetailLocation.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DetailUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="DetailWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -22,9 +25,15 @@
     <Compile Update="ViewTourDestination.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="ViewUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="DetailLocation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DetailUser.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="DetailWindow.xaml">
@@ -40,6 +49,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="ViewTourDestination.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewUser.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

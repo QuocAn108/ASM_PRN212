@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TourManagement"
         mc:Ignorable="d"
-        Title="Tour Management" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+        Title="Tour Management" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Loaded="Window_Loaded">
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -26,11 +26,12 @@
                   RowStyle="{StaticResource CustomDataGridRow}" CellStyle="{StaticResource CustomDataGridCell}"
                   AutoGenerateColumns="False" CanUserAddRows="False">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Location ID" Width="100" Binding="{Binding LocationId}" />
-                <DataGridTextColumn Header="Location Name" Width="200" Binding="{Binding LocationName}"/>
-                <DataGridTextColumn Header="Description" Width="500" Binding="{Binding Introduction}" />
-                <DataGridTextColumn Header="Region" Width="100" Binding="{Binding Region}"/>
-                <DataGridTextColumn Header="Type" Width="100" Binding="{Binding Type}"/>
+                <DataGridTextColumn Header="Tour ID" Width="100" Binding="{Binding TourId}" />
+                <DataGridTextColumn Header="Tour Name" Width="200" Binding="{Binding TourName}"/>
+                <DataGridTextColumn Header="Price" Width="500" Binding="{Binding Price}" />
+                <DataGridTextColumn Header="Start Time" Width="100" Binding="{Binding StartTime}"/>
+                <DataGridTextColumn Header="Finish Time" Width="100" Binding="{Binding FinishTime}"/>
+                <DataGridTextColumn Header="Number Of Participate" Width="100" Binding="{Binding NumberOfParticipate}"/>
             </DataGrid.Columns>
         </DataGrid>
         <Grid Grid.Row="2" HorizontalAlignment="Right">

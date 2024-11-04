@@ -53,10 +53,6 @@ namespace TourManagement
             TourDataGrid.ItemsSource = list;
         }
 
-        private void Window_Loaded(object sender, RoutedEventArgs e)
-        {
-            TourDataGrid.ItemsSource = _tourService.GetAllTour();
-        }
 
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
@@ -98,6 +94,12 @@ namespace TourManagement
             _tourService.DeleteTour(selected);
             FillDataGrid(_tourService.GetAllTour()); //refresh datagrid screen to renew grid
 
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            
+            FillDataGrid(_tourService.GetAllTour());
         }
     }
 }

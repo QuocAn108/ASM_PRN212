@@ -45,6 +45,8 @@ namespace TourManagement
             if (!CheckVar())
                 return;
             Tour tour = new();
+            if (EditedOne != null)
+            tour.TourId = int.Parse(TourIDTextBox.Text);
             tour.TourName = TourNameTextBox.Text;
             tour.Price = float.Parse(PriceTextBox.Text);
             tour.StartTime = StartTimeTextBox.Text;
@@ -53,8 +55,9 @@ namespace TourManagement
 
             if (EditedOne != null) // đang ở chế độ edit
                 _tourService.UpdateTour(tour);
-            else _tourService.AddTour(tour);
-
+            else
+             _tourService.AddTour(tour);
+            this.Close();
         }
 
         public bool CheckVar()
@@ -142,6 +145,20 @@ namespace TourManagement
             }
 
             return true;
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            if (EditedOne != null)
+            {
+                TourIDTextBox.Text = EditedOne.TourId.ToString();
+                TourIDTextBox.IsEnabled = false;
+                TourNameTextBox.Text = EditedOne.TourName;
+                PriceTextBox.Text = EditedOne.Price.ToString();
+                StartTimeTextBox.Text = EditedOne.StartTime;
+                FinishTimeTextBox.Text = EditedOne.FinishTime;
+                ParticipantsTextBox.Text = EditedOne.NumberOfParticipate.ToString();
+            }
         }
     }
 }

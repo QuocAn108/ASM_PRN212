@@ -7,24 +7,29 @@
       "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\c#\\tourmanagement.dal\\repositories\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\repositories\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntphu\\AppData\\Local\\Temp\\yg12t2qd..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|d:\\c#\\tourmanagement.bll\\services\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|solutionrelative:tourmanagement.bll\\services\\tourservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\c#\\tourmanagement.dal\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\model\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\c#\\tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntphu\\AppData\\Local\\Temp\\yg12t2qd..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ntphu\\AppData\\Local\\Temp\\yg12t2qd..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +91,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\C#\\TourManagement\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TourManagement\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\C#\\TourManagement\\MainWindow.xaml.cs",
-              "RelativeToolTip": "TourManagement\\MainWindow.xaml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:33:32.611Z",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\ntphu\\AppData\\Local\\Temp\\yg12t2qd..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-04T17:20:12.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\C#\\TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "ToolTip": "D:\\C#\\TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAhwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:48:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml.cs",
+              "ToolTip": "D:\\C#\\TourManagement\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "TourManagement\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAD4vzoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:47:21.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "D:\\C#\\TourManagement\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml",
+              "ToolTip": "D:\\C#\\TourManagement\\DetailWindow.xaml",
+              "RelativeToolTip": "TourManagement\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T16:47:17.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\C#\\TourManagement\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TourManagement\\MainWindow.xaml",
@@ -112,51 +152,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "D:\\C#\\TourManagement\\Login.xaml",
-              "RelativeDocumentMoniker": "TourManagement\\Login.xaml",
-              "ToolTip": "D:\\C#\\TourManagement\\Login.xaml",
-              "RelativeToolTip": "TourManagement\\Login.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-04T16:32:22.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DetailWindow.xaml",
-              "DocumentMoniker": "D:\\C#\\TourManagement\\DetailWindow.xaml",
-              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml",
-              "ToolTip": "D:\\C#\\TourManagement\\DetailWindow.xaml",
-              "RelativeToolTip": "TourManagement\\DetailWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-04T16:09:44.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DetailWindow.xaml.cs",
-              "DocumentMoniker": "D:\\C#\\TourManagement\\DetailWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml.cs",
-              "ToolTip": "D:\\C#\\TourManagement\\DetailWindow.xaml.cs",
-              "RelativeToolTip": "TourManagement\\DetailWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCQAAAAvAAAAAAAAAA==",
+              "Title": "TourService.cs",
+              "DocumentMoniker": "D:\\C#\\TourManagement.BLL\\Services\\TourService.cs",
+              "RelativeDocumentMoniker": "TourManagement.BLL\\Services\\TourService.cs",
+              "ToolTip": "D:\\C#\\TourManagement.BLL\\Services\\TourService.cs",
+              "RelativeToolTip": "TourManagement.BLL\\Services\\TourService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAawBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:04:33.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tour.cs",
-              "DocumentMoniker": "D:\\C#\\TourManagement.DAL\\Model\\Tour.cs",
-              "RelativeDocumentMoniker": "TourManagement.DAL\\Model\\Tour.cs",
-              "ToolTip": "D:\\C#\\TourManagement.DAL\\Model\\Tour.cs",
-              "RelativeToolTip": "TourManagement.DAL\\Model\\Tour.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T15:58:44.559Z",
+              "WhenOpened": "2024-11-04T16:47:29.5Z",
               "EditorCaption": ""
             }
           ]

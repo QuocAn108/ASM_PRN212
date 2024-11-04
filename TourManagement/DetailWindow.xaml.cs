@@ -11,6 +11,8 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using TourManagement.BLL.Services;
+using TourManagement.DAL.Model;
 
 namespace TourManagement
 {
@@ -19,9 +21,22 @@ namespace TourManagement
     /// </summary>
     public partial class DetailWindow : Window
     {
+        private TourService _tourService = new();
+
+        public Tour EditedOne { get; set; }
+
         public DetailWindow()
         {
             InitializeComponent();
+        }
+
+        private void QuitButton_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBoxResult result = MessageBox.Show("Are you sure to quit??", "Warning", MessageBoxButton.YesNo, MessageBoxImage.Warning);
+            if (result == MessageBoxResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }

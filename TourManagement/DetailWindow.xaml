@@ -46,7 +46,7 @@
 
         <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Style="{StaticResource StackPanelDetail}">
             <Button x:Name="SaveButton" Content="Save" Style="{StaticResource ButtonDetail}"/>
-            <Button x:Name="QuitButton" Content="Quit" Style="{StaticResource ButtonDetail}"/>
+            <Button x:Name="QuitButton" Content="Quit" Style="{StaticResource ButtonDetail}" Click="QuitButton_Click"/>
         </StackPanel>
     </Grid>
 </Window>

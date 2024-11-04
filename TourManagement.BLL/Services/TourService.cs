@@ -12,20 +12,20 @@ namespace TourManagement.BLL.Services
     {
         private TourRepository _TourRepo = new();
 
-        public List<Tour> GetAllLocation()
+        public List<Tour> GetAllTour()
         {
             return _TourRepo.GetAllTour();
         }
-        public void AddLocation(Tour x)
+        public void AddTour(Tour x)
         {
             _TourRepo.AddTour(x);
         }
-        public void UpdateLocation(Tour x)
+        public void UpdateTour(Tour x)
         {
             _TourRepo.UpdateTour(x);
         }
 
-        public void DeleteLocation(Tour x)
+        public void DeleteTour(Tour x)
         {
             _TourRepo.DeleteTour(x);
         }

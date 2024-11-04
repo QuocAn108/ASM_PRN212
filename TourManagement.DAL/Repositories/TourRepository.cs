@@ -40,7 +40,5 @@ namespace TourManagement.DAL.Repositories
         }
 
 
-
-
     }
 }

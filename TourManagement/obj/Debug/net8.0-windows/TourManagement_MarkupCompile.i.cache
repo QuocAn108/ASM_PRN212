@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\App.xaml
-61353658037
+8-784455177
 
-111571740874
+13254478821
 247799226287
-DetailLocation.xaml;DetailWindow.xaml;Login.xaml;MainWindow.xaml;ViewLocation.xaml;ViewTourDestination.xaml;
+DetailLocation.xaml;DetailUser.xaml;DetailWindow.xaml;Login.xaml;MainWindow.xaml;ViewLocation.xaml;ViewTourDestination.xaml;ViewUser.xaml;
 
-True
+False
 

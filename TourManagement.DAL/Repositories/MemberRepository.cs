@@ -16,5 +16,29 @@ namespace TourManagement.DAL.Repositories
             _context = new();
             return _context.Members.FirstOrDefault(x => x.Username.ToLower() == username.ToLower() && x.Password == password);
         }
+        public List<Member> GetAll()
+        {
+            _context = new ApplicationDBContext();
+            return _context.Members.Where(x=> x.Role != "AD").ToList();
+        }
+        public void Add(Member x)
+        {
+            _context = new();
+            _context.Members.Add(x);
+            _context.SaveChanges();
+        }
+        public void Update(Member x)
+        {
+            _context = new();
+            _context.Members.Update(x);
+            _context.SaveChanges();
+        }
+
+        public void Delete(Member x)
+        {
+            _context = new();
+            _context.Members.Remove(x);
+            _context.SaveChanges();
+        }
     }
 }

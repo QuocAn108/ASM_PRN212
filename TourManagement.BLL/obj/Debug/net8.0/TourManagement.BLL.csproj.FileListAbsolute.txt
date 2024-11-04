@@ -13,3 +13,4 @@ C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourM
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\refint\TourManagement.BLL.dll
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.pdb
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\ref\TourManagement.BLL.dll
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.sourcelink.json

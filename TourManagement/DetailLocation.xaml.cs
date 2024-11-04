@@ -60,6 +60,10 @@ namespace TourManagement
 
 
             Location x = new();
+            if (EditLocation != null && LocationIDTextBox.Text != null)
+            {
+                x.LocationId = int.Parse(LocationIDTextBox.Text);
+            }
             x.LocationName = LocationNameTextBox.Text;
             x.Introduction = DescriptionTextBox.Text;
             x.Region = RegionTextBox.Text;

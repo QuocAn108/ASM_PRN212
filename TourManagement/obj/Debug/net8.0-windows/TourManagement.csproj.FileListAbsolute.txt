@@ -155,3 +155,4 @@ C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\obj\Debug\net8.0-windows\V
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\obj\Debug\net8.0-windows\ViewTourDestination.baml
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\obj\Debug\net8.0-windows\DetailLocation.g.cs
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\obj\Debug\net8.0-windows\DetailLocation.baml
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\obj\Debug\net8.0-windows\TourManagement.sourcelink.json

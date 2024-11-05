@@ -35,5 +35,28 @@ namespace TourManagement.DAL.Repositories
             _context.Locations.Remove(x); 
             _context.SaveChanges();           
         }
+
+        public void AddTour(Tour x)
+        {
+            _context = new();
+            _context.Tours.Add(x);
+            _context.SaveChanges();
+        }
+
+        public void UpdateTour(Tour x)
+        {
+            _context = new();
+            _context.Tours.Update(x);
+            _context.SaveChanges();
+        }
+
+        public void DeleteTour(Tour x)
+        {
+            _context = new();
+            _context.Tours.Remove(x);
+            _context.SaveChanges();
+        }
+
+
     }
 }

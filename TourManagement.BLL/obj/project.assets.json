@@ -3131,19 +3131,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ntphu\\.nuget\\packages\\": {}
+    "C:\\Users\\lienm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\TourManagement.BLL\\TourManagement.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.BLL\\TourManagement.BLL.csproj",
       "projectName": "TourManagement.BLL",
-      "projectPath": "D:\\C#\\TourManagement.BLL\\TourManagement.BLL.csproj",
-      "packagesPath": "C:\\Users\\ntphu\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\TourManagement.BLL\\obj\\",
+      "projectPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.BLL\\TourManagement.BLL.csproj",
+      "packagesPath": "C:\\Users\\lienm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ntphu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lienm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3158,8 +3158,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\TourManagement.DAL\\TourManagement.DAL.csproj": {
-              "projectPath": "D:\\C#\\TourManagement.DAL\\TourManagement.DAL.csproj"
+            "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj": {
+              "projectPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj"
             }
           }
         }

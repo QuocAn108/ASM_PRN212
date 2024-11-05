@@ -96,12 +96,6 @@ namespace TourManagement
 
         }
 
-        private void Window_Loaded(object sender, RoutedEventArgs e)
-        {
-            
-            FillDataGrid(_tourService.GetAllTour());
-        }
-
         private void ViewUserButton_Click(object sender, RoutedEventArgs e)
         {
             ViewUser v3 = new();
@@ -111,6 +105,7 @@ namespace TourManagement
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             HelloMSGLabel.Content = "Hello, " + CurAccount.FullName;
+            FillDataGrid(_tourService.GetAllTour());
         }
     }
 }

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TourManagement"
         mc:Ignorable="d"
-        Title="Create Tour" Height="476" Width="940" WindowStartupLocation="CenterScreen">
+        Title="Create Tour" Height="476" Width="940" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -28,25 +28,19 @@
         <Label Content="Tour Name:" Grid.Row="1" Grid.Column="0" Margin="0,10,0,58" Style="{StaticResource LabelDetail}"/>
         <TextBox x:Name="TourNameTextBox" Grid.Row="1" Grid.Column="1" Margin="22,0,0,97" Style="{StaticResource TextBoxDetail}"/>
 
-        <Label Content="Description:" Grid.Row="1" Grid.Column="0" Margin="0,45,0,15" Grid.RowSpan="2" Style="{StaticResource LabelDetail}"/>
-        <TextBox x:Name="DescriptionTextBox" Grid.Row="1" Grid.Column="1" Height="100" AcceptsReturn="True" Margin="22,48,0,10" Grid.RowSpan="2" Style="{StaticResource TextBoxDetail}"/>
+        <Label Content="Start Time:" Grid.Row="1" Grid.Column="0" Margin="0,104,0,36" Grid.RowSpan="4" Style="{StaticResource LabelDetail}"/>
 
-        <Label Content="Price:" Grid.Row="3" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
-        <TextBox x:Name="PriceTextBox" Grid.Row="3" Grid.Column="1" Margin="22,4,0,14" />
+        <Label Content="Price:" Grid.Row="1" Grid.Column="0" Style="{StaticResource LabelDetail}" Margin="0,61,0,52"/>
+        <TextBox x:Name="PriceTextBox" Grid.Row="1" Grid.Column="1" Margin="22,61,0,53" />
+        <Label Content="Number of Participants:" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Margin="-8,12,742,23" Style="{StaticResource LabelDetail}" RenderTransformOrigin="0.475,1.229" Grid.RowSpan="2"/>
+        <TextBox x:Name="FinishTimeTextBox" Grid.Row="4" Grid.Column="1" Margin="22,10,0,8" Style="{StaticResource TextBoxDetail}"/>
 
-        <Label Content="Number of Participants:" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,10,733,10" Style="{StaticResource LabelDetail}"/>
-        <TextBox x:Name="ParticipantsTextBox" Grid.Row="4" Grid.Column="1" Margin="22,4,0,14" Style="{StaticResource TextBoxDetail}"/>
-
-        <Label Content="Farm ID:" Grid.Row="5" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
-        <ComboBox x:Name="FarmIDComboBox" Grid.Row="5" Grid.Column="1" Margin="22,9,0,10">
-            <ComboBoxItem Content="Farm 1"/>
-            <ComboBoxItem Content="Farm 2"/>
-            <ComboBoxItem Content="Farm 3"/>
-        </ComboBox>
-
-        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Style="{StaticResource StackPanelDetail}">
-            <Button x:Name="SaveButton" Content="Save" Style="{StaticResource ButtonDetail}"/>
-            <Button x:Name="QuitButton" Content="Quit" Style="{StaticResource ButtonDetail}"/>
+        <StackPanel Grid.Row="6" Style="{StaticResource StackPanelDetail}" Margin="0,91,77,-81" Grid.ColumnSpan="2">
+            <Button x:Name="SaveButton" Content="Save" Style="{StaticResource ButtonDetail}" Click="SaveButton_Click" Height="45" Width="293"/>
+            <Button x:Name="QuitButton" Content="Quit" Style="{StaticResource ButtonDetail}" Click="QuitButton_Click" Width="403"/>
         </StackPanel>
+        <TextBox x:Name="StartTimeTextBox" Grid.Row="1" Grid.Column="1" Margin="22,104,0,10" />
+        <Label Content="Finish Time:" Grid.Row="4" Grid.Column="0" Margin="0,10,0,38" Grid.RowSpan="3" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="ParticipantsTextBox" Grid.Row="5" Grid.Column="1" Margin="22,12,0,38" Style="{StaticResource TextBoxDetail}" Grid.RowSpan="2"/>
     </Grid>
 </Window>

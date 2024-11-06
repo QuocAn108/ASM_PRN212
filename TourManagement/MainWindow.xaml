@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TourManagement"
         mc:Ignorable="d"
-        Title="Tour Management" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+        Title="Tour Management" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Loaded="Window_Loaded">
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -17,20 +17,23 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
-            <TextBox x:Name="SearchTextBox" Margin="0,0,10,0" Padding="5" VerticalContentAlignment="Center" 
+
+            <TextBox x:Name="SearchTextBox" Margin="468,0,10,0" Padding="5" Width="400"  VerticalContentAlignment="Center" 
                      />
             <Button x:Name="SearchButton" Grid.Column="1" Content="Search" Padding="10,5"/>
+            <Label x:Name="HelloMSGLabel" Content="Hello" HorizontalAlignment="Left" Margin="23,0,0,0" VerticalAlignment="Center" Width="416"/>
         </Grid>
-        <DataGrid Grid.Row="1" Margin="0,0,0,20" 
+        <DataGrid x:Name="TourDataGrid" Grid.Row="1" Margin="0,0,0,20" 
                   ColumnHeaderStyle="{StaticResource CustomDataGridColumnHeader}"
                   RowStyle="{StaticResource CustomDataGridRow}" CellStyle="{StaticResource CustomDataGridCell}"
                   AutoGenerateColumns="False" CanUserAddRows="False">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Location ID" Width="100" Binding="{Binding LocationId}" />
-                <DataGridTextColumn Header="Location Name" Width="200" Binding="{Binding LocationName}"/>
-                <DataGridTextColumn Header="Description" Width="500" Binding="{Binding Introduction}" />
-                <DataGridTextColumn Header="Region" Width="100" Binding="{Binding Region}"/>
-                <DataGridTextColumn Header="Type" Width="100" Binding="{Binding Type}"/>
+                <DataGridTextColumn Header="Tour ID" Width="100" Binding="{Binding TourId}" />
+                <DataGridTextColumn Header="Tour Name" Width="200" Binding="{Binding TourName}"/>
+                <DataGridTextColumn Header="Price" Width="500" Binding="{Binding Price}" />
+                <DataGridTextColumn Header="Start Time" Width="100" Binding="{Binding StartTime}"/>
+                <DataGridTextColumn Header="Finish Time" Width="100" Binding="{Binding FinishTime}"/>
+                <DataGridTextColumn Header="Number Of Participate" Width="100" Binding="{Binding NumberOfParticipate}"/>
             </DataGrid.Columns>
         </DataGrid>
         <Grid Grid.Row="2" HorizontalAlignment="Right">
@@ -41,13 +44,15 @@
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
-            <Button x:Name="ViewTDButton" Grid.Column="0" Content="View Tour Destination" Padding="10,5" Margin="0,0,10,0" Click="ViewTDButton_Click" />
-            <Button x:Name="ViewButton" Grid.Column="1" Content="View Location" Padding="10,5" Margin="0,0,10,0" Click="ViewButton_Click" />
-            <Button x:Name="UpdateButton" Grid.Column="2" Content="Update" Padding="10,5" Margin="0,0,10,0" />
-            <Button x:Name="DeleteButton" Grid.Column="3" Content="Delete" Padding="10,5" Margin="0,0,10,0"/>
-            <Button x:Name="CreateButton" Grid.Column="4" Content="Create" Padding="10,5" Margin="0,0,10,0"/>
-            <Button x:Name="QuitButton" Grid.Column="5" Content="Quit" Padding="10,5" Click="QuitButton_Click"/>
+            <Button x:Name="ViewUserButton" Grid.Column="0" Content="View User" Padding="10,5" Margin="0,0,10,0" Click="ViewUserButton_Click" />
+            <Button x:Name="ViewTDButton" Grid.Column="1" Content="View Tour Destination" Padding="10,5" Margin="0,0,10,0" Click="ViewTDButton_Click" />
+            <Button x:Name="ViewButton" Grid.Column="2" Content="View Location" Padding="10,5" Margin="0,0,10,0" Click="ViewButton_Click" />
+            <Button x:Name="UpdateButton" Grid.Column="3" Content="Update" Padding="10,5" Margin="0,0,10,0" Click="UpdateButton_Click" />
+            <Button x:Name="DeleteButton" Grid.Column="4" Content="Delete" Padding="10,5" Margin="0,0,10,0" Click="DeleteButton_Click"/>
+            <Button x:Name="CreateButton" Grid.Column="5" Content="Create" Padding="10,5" Margin="0,0,10,0" Click="CreateButton_Click"/>
+            <Button x:Name="QuitButton" Grid.Column="6" Content="Quit" Padding="10,5" Click="QuitButton_Click"/>
         </Grid>
     </Grid>
 </Window>

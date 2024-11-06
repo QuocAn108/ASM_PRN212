@@ -12,18 +12,22 @@ C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\refin
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.pdb
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.genruntimeconfig.cache
 C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\ref\TourManagement.DAL.dll
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.deps.json
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.runtimeconfig.json
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.dll
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.pdb
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.csproj.AssemblyReference.cache
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.AssemblyInfoInputs.cache
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.AssemblyInfo.cs
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.csproj.CoreCompileInputs.cache
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.sourcelink.json
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.dll
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\refint\TourManagement.DAL.dll
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.pdb
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.genruntimeconfig.cache
-D:\ASS_PRN\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\ref\TourManagement.DAL.dll
+<<<<<<< HEAD
+C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.sourcelink.json
+=======
+D:\C#\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.deps.json
+D:\C#\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.runtimeconfig.json
+D:\C#\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.dll
+D:\C#\TourManagement.DAL\bin\Debug\net8.0\TourManagement.DAL.pdb
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.csproj.AssemblyReference.cache
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.AssemblyInfoInputs.cache
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.AssemblyInfo.cs
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.csproj.CoreCompileInputs.cache
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.sourcelink.json
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.dll
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\refint\TourManagement.DAL.dll
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.pdb
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\TourManagement.DAL.genruntimeconfig.cache
+D:\C#\TourManagement.DAL\obj\Debug\net8.0\ref\TourManagement.DAL.dll
+>>>>>>> 20f5a90b1a7e780248357d93a67654c9032a1d74

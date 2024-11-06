@@ -33,3 +33,19 @@ D:\C#\TourManagement.BLL\obj\Debug\net8.0\refint\TourManagement.BLL.dll
 D:\C#\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.pdb
 D:\C#\TourManagement.BLL\obj\Debug\net8.0\ref\TourManagement.BLL.dll
 >>>>>>> 20f5a90b1a7e780248357d93a67654c9032a1d74
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\bin\Debug\net8.0\TourManagement.BLL.deps.json
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\bin\Debug\net8.0\TourManagement.BLL.dll
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\bin\Debug\net8.0\TourManagement.BLL.pdb
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\bin\Debug\net8.0\TourManagement.DAL.dll
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\bin\Debug\net8.0\TourManagement.DAL.pdb
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.csproj.AssemblyReference.cache
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.AssemblyInfoInputs.cache
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.AssemblyInfo.cs
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.csproj.CoreCompileInputs.cache
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.sourcelink.json
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourMana.0AF892A1.Up2Date
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.dll
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\refint\TourManagement.BLL.dll
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\TourManagement.BLL.pdb
+D:\ASS_PRN\ASM_PRN212\TourManagement.BLL\obj\Debug\net8.0\ref\TourManagement.BLL.dll

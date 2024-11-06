@@ -1,41 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement\\tourmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\tourmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement.dal\\tourmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\tourmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement.bll\\tourmanagement.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|solutionrelative:tourmanagement.bll\\tourmanagement.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lienm\\AppData\\Local\\SourceServer\\59f049883d9db6e1ec3eb8fcf3a4c6e7a23836467343ad5c58316b9abc849698\\TourManagement.BLL\\Services\\MemberServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lienm\\AppData\\Local\\SourceServer\\2829fb73f2a75e54e01e56d40acdac5432f67679350fe173a910b471d9103ad1\\TourManagement.BLL\\Services\\LocationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\f3f134e9e825e3e7268090f58b1af2bda2de513f61a09c56f48b9b8d08612abc\\TourManagement.BLL.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\0476ef0424fc5ec2efc8dfd20e390d2e20f1bcf6fb2918562333f9871f6c562e\\TourManagement.BLL.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -43,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -96,136 +62,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ViewState": "AgIAAHQAAAAAAAAAAIAwwIwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-11-06T06:26:21.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TourManagement.BLL",
-              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.BLL\\TourManagement.BLL.csproj",
-              "RelativeDocumentMoniker": "TourManagement.BLL\\TourManagement.BLL.csproj",
-              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.BLL\\TourManagement.BLL.csproj",
-              "RelativeToolTip": "TourManagement.BLL\\TourManagement.BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T06:25:58.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TourManagement",
-              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\TourManagement.csproj",
-              "RelativeDocumentMoniker": "TourManagement\\TourManagement.csproj",
-              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\TourManagement.csproj",
-              "RelativeToolTip": "TourManagement\\TourManagement.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T06:25:45.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAJwWAAAAAAAAAIAwwLQWAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-11-06T06:16:10.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TourManagement.DAL",
-              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj",
-              "RelativeDocumentMoniker": "TourManagement.DAL\\TourManagement.DAL.csproj",
-              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj",
-              "RelativeToolTip": "TourManagement.DAL\\TourManagement.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T06:26:01.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemberServices.cs",
-              "DocumentMoniker": "C:\\Users\\lienm\\AppData\\Local\\SourceServer\\59f049883d9db6e1ec3eb8fcf3a4c6e7a23836467343ad5c58316b9abc849698\\TourManagement.BLL\\Services\\MemberServices.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\59f049883d9db6e1ec3eb8fcf3a4c6e7a23836467343ad5c58316b9abc849698\\TourManagement.BLL\\Services\\MemberServices.cs",
-              "ToolTip": "C:\\Users\\lienm\\AppData\\Local\\SourceServer\\59f049883d9db6e1ec3eb8fcf3a4c6e7a23836467343ad5c58316b9abc849698\\TourManagement.BLL\\Services\\MemberServices.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\59f049883d9db6e1ec3eb8fcf3a4c6e7a23836467343ad5c58316b9abc849698\\TourManagement.BLL\\Services\\MemberServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:24:56.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TourManagement.BLL.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\f3f134e9e825e3e7268090f58b1af2bda2de513f61a09c56f48b9b8d08612abc\\TourManagement.BLL.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f3f134e9e825e3e7268090f58b1af2bda2de513f61a09c56f48b9b8d08612abc\\TourManagement.BLL.GlobalUsings.g.cs",
-              "ToolTip": "C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\f3f134e9e825e3e7268090f58b1af2bda2de513f61a09c56f48b9b8d08612abc\\TourManagement.BLL.GlobalUsings.g.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f3f134e9e825e3e7268090f58b1af2bda2de513f61a09c56f48b9b8d08612abc\\TourManagement.BLL.GlobalUsings.g.cs [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:24:50.308Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TourManagement.BLL.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\0476ef0424fc5ec2efc8dfd20e390d2e20f1bcf6fb2918562333f9871f6c562e\\TourManagement.BLL.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0476ef0424fc5ec2efc8dfd20e390d2e20f1bcf6fb2918562333f9871f6c562e\\TourManagement.BLL.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\0476ef0424fc5ec2efc8dfd20e390d2e20f1bcf6fb2918562333f9871f6c562e\\TourManagement.BLL.AssemblyInfo.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0476ef0424fc5ec2efc8dfd20e390d2e20f1bcf6fb2918562333f9871f6c562e\\TourManagement.BLL.AssemblyInfo.cs [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:24:49.634Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "C:\\Users\\lienm\\AppData\\Local\\Temp\\.vsdbgsrc\\f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f7a5d9789c863625e139ff99e1113a503830f6b85a88f6129916df83ac76b49e\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:24:48.294Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LocationService.cs",
-              "DocumentMoniker": "C:\\Users\\lienm\\AppData\\Local\\SourceServer\\2829fb73f2a75e54e01e56d40acdac5432f67679350fe173a910b471d9103ad1\\TourManagement.BLL\\Services\\LocationService.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\2829fb73f2a75e54e01e56d40acdac5432f67679350fe173a910b471d9103ad1\\TourManagement.BLL\\Services\\LocationService.cs",
-              "ToolTip": "C:\\Users\\lienm\\AppData\\Local\\SourceServer\\2829fb73f2a75e54e01e56d40acdac5432f67679350fe173a910b471d9103ad1\\TourManagement.BLL\\Services\\LocationService.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\2829fb73f2a75e54e01e56d40acdac5432f67679350fe173a910b471d9103ad1\\TourManagement.BLL\\Services\\LocationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T06:24:53.95Z",
-              "EditorCaption": ""
             }
           ]
         }

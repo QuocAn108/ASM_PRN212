@@ -16,5 +16,19 @@ namespace TourManagement.BLL.Services
             return _tdRepo.GetAll();
         }
 
+        public void Add(TourDestination tourDestination)
+        {
+            _tdRepo.Add(tourDestination);
+        }
+
+        public void Delete(TourDestination tourDestination)
+        {
+            _tdRepo.Delete(tourDestination);
+        }
+
+        public bool IsExist(int tourId, int locationId)
+        {
+            return _tdRepo.IsExist(tourId, locationId);
+        }
     }
 }

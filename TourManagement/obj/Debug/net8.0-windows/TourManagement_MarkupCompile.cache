@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\obj\Debug\net8.0-windows\
+C:\Users\ASUS\Desktop\ASM\TourManagement\obj\Debug\net8.0-windows\
 TourManagement
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\App.xaml
-8-784455177
+C:\Users\ASUS\Desktop\ASM\TourManagement\App.xaml
+91608114608
 
-11-27299736
-247799226287
-DetailLocation.xaml;DetailUser.xaml;DetailWindow.xaml;Login.xaml;MainWindow.xaml;ViewLocation.xaml;ViewTourDestination.xaml;ViewUser.xaml;
+12-924485208
+247407258795
+DetailLocation.xaml;DetailTourDestination.xaml;DetailUser.xaml;DetailWindow.xaml;Login.xaml;MainWindow.xaml;ViewLocation.xaml;ViewTourDestination.xaml;ViewUser.xaml;
 
 False
 

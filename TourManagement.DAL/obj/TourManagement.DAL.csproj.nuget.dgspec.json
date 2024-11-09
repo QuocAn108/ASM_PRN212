@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj": {}
+    "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj": {}
   },
   "projects": {
-    "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj": {
+    "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj",
         "projectName": "TourManagement.DAL",
-        "projectPath": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\obj\\",
+        "projectPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\TourManagement.DAL.csproj",
+        "packagesPath": "C:\\Users\\lienm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lienm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

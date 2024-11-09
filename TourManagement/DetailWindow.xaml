@@ -23,7 +23,7 @@
         </Grid.ColumnDefinitions>
 
         <Label Content="Tour ID:" Grid.Row="0" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
-        <TextBox x:Name="TourIDTextBox" Grid.Row="0" Grid.Column="1" IsReadOnly="True" Margin="22,4,0,15" Style="{StaticResource TextBoxDetail}"/>
+        <TextBox x:Name="TourIDTextBox" Grid.Row="0" Grid.Column="1" IsReadOnly="True" Margin="22,4,0,15" Style="{StaticResource TextBoxDetail}" IsEnabled="False"/>
 
         <Label Content="Tour Name:" Grid.Row="1" Grid.Column="0" Margin="0,10,0,58" Style="{StaticResource LabelDetail}"/>
         <TextBox x:Name="TourNameTextBox" Grid.Row="1" Grid.Column="1" Margin="22,0,0,97" Style="{StaticResource TextBoxDetail}"/>

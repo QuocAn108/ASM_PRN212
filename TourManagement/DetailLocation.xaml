@@ -43,7 +43,7 @@
              Grid.Column="1" 
              IsReadOnly="True"
              Margin="0,5,0,5"
-             Style="{StaticResource TextBoxDetail}"/>
+             Style="{StaticResource TextBoxDetail}" IsEnabled="False"/>
 
         <Label Content="Location Name:" 
            Grid.Row="2" 

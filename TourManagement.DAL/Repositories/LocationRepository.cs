@@ -56,7 +56,24 @@ namespace TourManagement.DAL.Repositories
             _context.Tours.Remove(x);
             _context.SaveChanges();
         }
-
+        public List<Location> SearchLocation(string locationName, string region)
+        {
+            _context = new();
+            List<Location> result = _context.Locations.ToList();
+            if (string.IsNullOrWhiteSpace(locationName) && string.IsNullOrWhiteSpace(region))
+            {
+                return result;
+            }
+            if (!string.IsNullOrWhiteSpace(locationName) && !string.IsNullOrWhiteSpace(region))
+            {
+                return result.Where(x => x.LocationName.ToLower().Contains(locationName.ToLower()) || x.Region.ToLower().Contains(region.ToLower())).ToList();
+            }
+            if (!string.IsNullOrWhiteSpace(locationName))
+            {
+                return result.Where(x => x.LocationName.ToLower().Contains(locationName.ToLower())).ToList();
+            }
+            return result.Where(x => x.Region.ToLower().Contains(region.ToLower())).ToList();
+        }
 
     }
 }

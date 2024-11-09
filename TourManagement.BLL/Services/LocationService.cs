@@ -28,5 +28,9 @@ namespace TourManagement.BLL.Services
         {
             _locationRepo.Delete(x);
         }
+        public List<Location> SearchLocation(string locationName, string region)
+        {
+            return _locationRepo.SearchLocation(locationName, region);
+        }
     }
 }

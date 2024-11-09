@@ -31,7 +31,7 @@ namespace TourManagement
         }
         private void uploadImage()
         {
-            string imgFolderPath = @"C:\Users\lienm\source\repos\ASM_PRN212\TourManagement\Img\";
+            string imgFolderPath = @"D:\ASS_PRN\ASM_PRN212\TourManagement\Img\";
             string backgroundImageFileName = "fushi4k.jpg";
             string backgroundImagePath = System.IO.Path.Combine(imgFolderPath, backgroundImageFileName);
             if (File.Exists(backgroundImagePath))

@@ -3,6 +3,94 @@
   "WorkspaceRootPath": "D:\\ASS_PRN\\ASM_PRN212\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\viewlocation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewlocation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\viewlocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewlocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.bll\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|solutionrelative:tourmanagement.bll\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.dal\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\repositories\\locationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.dal\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\model\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\viewtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\viewtourdestination.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewtourdestination.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\viewuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.dal\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\detaillocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detaillocation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\detailuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.dal\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.dal\\repositories\\tourdestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\repositories\\tourdestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement.dal\\repositories\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\repositories\\tourrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\detaillocation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detaillocation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|d:\\ass_prn\\asm_prn212\\tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -18,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,8 +137,292 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.BLL\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "TourManagement.BLL\\Services\\LocationService.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.BLL\\Services\\LocationService.cs",
+              "RelativeToolTip": "TourManagement.BLL\\Services\\LocationService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:50:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailUser.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailUser.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\DetailUser.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailUser.xaml",
+              "RelativeToolTip": "TourManagement\\DetailUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:48:55.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetailLocation.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailLocation.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\DetailLocation.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailLocation.xaml",
+              "RelativeToolTip": "TourManagement\\DetailLocation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:48:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Model\\Location.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Model\\Location.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Model\\Location.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Model\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:44:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Model\\Member.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Model\\Member.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Model\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:44:40.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Repositories\\MemberRepository.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Repositories\\MemberRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:44:08.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TourDestinationRepository.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:44:06.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TourRepository.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Repositories\\TourRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:44:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationRepository.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\LocationRepository.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Repositories\\LocationRepository.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement.DAL\\Repositories\\LocationRepository.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Repositories\\LocationRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAxwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:43:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "TourManagement\\DetailWindow.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:42:11.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\DetailWindow.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailWindow.xaml",
+              "RelativeToolTip": "TourManagement\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:41:35.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\MainWindow.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\MainWindow.xaml",
+              "RelativeToolTip": "TourManagement\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:41:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewUser.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewUser.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\ViewUser.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewUser.xaml",
+              "RelativeToolTip": "TourManagement\\ViewUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:40:02.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewTourDestination.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewTourDestination.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\ViewTourDestination.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewTourDestination.xaml",
+              "RelativeToolTip": "TourManagement\\ViewTourDestination.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:39:56.413Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ViewLocation.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewLocation.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\ViewLocation.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewLocation.xaml",
+              "RelativeToolTip": "TourManagement\\ViewLocation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T05:39:44.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewLocation.xaml.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewLocation.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\ViewLocation.xaml.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewLocation.xaml.cs",
+              "RelativeToolTip": "TourManagement\\ViewLocation.xaml.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwE0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:39:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TourManagement\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:39:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailLocation.xaml.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailLocation.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\DetailLocation.xaml.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\DetailLocation.xaml.cs",
+              "RelativeToolTip": "TourManagement\\DetailLocation.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T03:09:15.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewTourDestination.xaml.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewTourDestination.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\ViewTourDestination.xaml.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\ViewTourDestination.xaml.cs",
+              "RelativeToolTip": "TourManagement\\ViewTourDestination.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:44:48.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Login.xaml.cs",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\Login.xaml.cs",
+              "RelativeToolTip": "TourManagement\\Login.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:30:02.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\Login.xaml",
+              "RelativeDocumentMoniker": "TourManagement\\Login.xaml",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\Login.xaml",
+              "RelativeToolTip": "TourManagement\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-06T06:30:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\.gitignore",
+              "RelativeDocumentMoniker": "TourManagement\\.gitignore",
+              "ToolTip": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\.gitignore",
+              "RelativeToolTip": "TourManagement\\.gitignore",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T06:29:49.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\appsettings.json",
               "RelativeDocumentMoniker": "TourManagement\\appsettings.json",
@@ -62,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 22,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\ASS_PRN\\ASM_PRN212\\TourManagement\\App.xaml",
               "RelativeDocumentMoniker": "TourManagement\\App.xaml",
@@ -71,14 +443,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-01T09:34:37.747Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

@@ -17,9 +17,12 @@
                 <ColumnDefinition Width="*"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
-            <TextBox x:Name="SearchTextBox" Margin="0,0,10,0" Padding="5" VerticalContentAlignment="Center" 
+            <TextBox x:Name="LocationTextBox" Margin="98,0,469,0" Padding="5" VerticalContentAlignment="Center" 
                  />
-            <Button x:Name="SearchButton" Grid.Column="1" Content="Search" Padding="10,5"/>
+            <Button x:Name="SearchButton" Grid.Column="1" Content="Search" Padding="10,5" Click="SearchButton_Click"/>
+            <Label Content="Location" HorizontalAlignment="Left" Margin="0,9,0,0" VerticalAlignment="Top" Height="44" Width="114" RenderTransformOrigin="0.422,0.765"/>
+            <Label Content="Region" HorizontalAlignment="Left" Margin="467,5,0,0" VerticalAlignment="Top" Height="48" Width="116"/>
+            <TextBox x:Name="RegionTextBox" Margin="545,0,30,-1" Padding="5" VerticalContentAlignment="Center" />
         </Grid>
         <DataGrid x:Name="LocaltionDataGrid" Grid.Row="1" Margin="0,0,0,20" 
               ColumnHeaderStyle="{StaticResource CustomDataGridColumnHeader}"

@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using TourManagement.BLL.Services;
+using TourManagement.DAL.Model;
 
 namespace TourManagement
 {
@@ -40,6 +41,37 @@ namespace TourManagement
             {
                 this.Close();
             }
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            FillDataGrid();
+        }
+
+        private void CreateButton_Click(object sender, RoutedEventArgs e)
+        {
+            DetailTourDestination detailTourDestination = new DetailTourDestination();
+            detailTourDestination.ShowDialog();
+            FillDataGrid();
+        }
+
+        private void DeleteButton_Click(object sender, RoutedEventArgs e)
+        {
+            TourDestination selected = ToursDestinationDataGrid.SelectedItems as TourDestination;
+            if(selected == null)
+            {
+                MessageBox.Show("Please select a Tour Destination first!", "Item Required", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+
+            MessageBoxResult result = MessageBox.Show("Are you sure?", "Confirmation", MessageBoxButton.YesNo, MessageBoxImage.Question);
+
+            if (result == MessageBoxResult.Yes)
+            {
+                _service.Delete(selected);
+            }
+
+            FillDataGrid();
         }
     }
 }

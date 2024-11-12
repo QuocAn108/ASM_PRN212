@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TourManagement"
         mc:Ignorable="d"
-    Title="View tour destination" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip">
+    Title="View tour destination" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Loaded="Window_Loaded">
     <Grid Margin="20">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -21,14 +21,17 @@
              />
             <Button x:Name="SearchButton" Grid.Column="1" Content="Search" Padding="10,5"/>
         </Grid>
-        <DataGrid x:Name="ToursDestinationDataGrid" Grid.Row="1" Margin="0,0,573,0" 
+        <DataGrid x:Name="ToursDestinationDataGrid" Grid.Row="1" Margin="0,0,301,0" 
           ColumnHeaderStyle="{StaticResource CustomDataGridColumnHeader}"
-          RowStyle="{StaticResource CustomDataGridRow}" CellStyle="{StaticResource CustomDataGridCell}"
+          RowStyle="{StaticResource CustomDataGridRow}" 
+          CellStyle="{StaticResource CustomDataGridCell}"
           AutoGenerateColumns="False" CanUserAddRows="False">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Location ID" Width="100" Binding="{Binding LocationId}" />
-                <DataGridTextColumn Header="Tour ID" Width="150" Binding="{Binding TourId}"/>
-                <DataGridTextColumn Header="Type" Width="200" Binding="{Binding Type}" />
+                <DataGridTextColumn Header="Tour ID" Width="80" Binding="{Binding TourId}"/>
+                <DataGridTextColumn Header="Tour Name" Width="150" Binding="{Binding Tour.TourName}"/>
+                <DataGridTextColumn Header="Location ID" Width="90" Binding="{Binding LocationId}" />
+                <DataGridTextColumn Header="Location Name" Width="150" Binding="{Binding Location.LocationName}" />
+                <DataGridTextColumn Header="Type" Width="100" Binding="{Binding Type}" />
             </DataGrid.Columns>
         </DataGrid>
         <Grid Grid.Row="2" HorizontalAlignment="Right">
@@ -37,8 +40,8 @@
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
-            <Button x:Name="DeleteButton" Grid.Column="0" Content="Delete" Padding="10,5" Margin="0,0,10,0"/>
-            <Button x:Name="CreateButton" Grid.Column="1" Content="Create" Padding="10,5" Margin="0,0,10,0"/>
+            <Button x:Name="DeleteButton" Grid.Column="0" Content="Delete" Padding="10,5" Margin="0,0,10,0" Height="38" VerticalAlignment="Center" Click="DeleteButton_Click"/>
+            <Button x:Name="CreateButton" Grid.Column="1" Content="Create" Padding="10,5" Margin="0,0,10,0" Click="CreateButton_Click"/>
             <Button x:Name="QuitButton" Grid.Column="2" Content="Quit" Padding="10,5" Click="QuitButton_Click"/>
         </Grid>
     </Grid>

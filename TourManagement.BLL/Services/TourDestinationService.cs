@@ -15,5 +15,6 @@ namespace TourManagement.BLL.Services
         {
             return _tdRepo.GetAll();
         }
+
     }
 }

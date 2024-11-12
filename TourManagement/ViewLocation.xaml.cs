@@ -25,18 +25,18 @@ namespace TourManagement
         public ViewLocation()
         {
             InitializeComponent();
-            FillDataGrid();
+            FillDataGrid(_service.GetAllLocation());
         }
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
             DetailLocation d = new();
             d.ShowDialog();
-            FillDataGrid();
+            FillDataGrid(_service.GetAllLocation());
         }
-        private void FillDataGrid()
+        private void FillDataGrid(List<Location> list)
         {
             LocaltionDataGrid.ItemsSource = null;
-            LocaltionDataGrid.ItemsSource = _service.GetAllLocation();
+            LocaltionDataGrid.ItemsSource = list;
         }
 
         private void QuitButton_Click(object sender, RoutedEventArgs e)
@@ -62,7 +62,7 @@ namespace TourManagement
                 return;
 
             _service.DeleteLocation(selected);
-            FillDataGrid();
+            FillDataGrid(_service.GetAllLocation());
         }
 
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
@@ -77,7 +77,13 @@ namespace TourManagement
             DetailLocation d = new();
             d.EditLocation = selected;
             d.ShowDialog();
-            FillDataGrid();
+            FillDataGrid(_service.GetAllLocation());
+        }
+
+        private void SearchButton_Click(object sender, RoutedEventArgs e)
+        {
+            var result = _service.SearchLocation(LocationTextBox.Text.Trim(), RegionTextBox.Text.Trim());
+            FillDataGrid(result);
         }
     }
 }

@@ -86,7 +86,6 @@ namespace TourManagement
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
-            //todo: chan them de chui: bỏ trống 1 trong 2
             if (UsernameTextBox.Text.IsNullOrEmpty() || PasswordTextBox.Text.IsNullOrEmpty())
             {
                 MessageBox.Show("Both username and password are required ", "Required fields", MessageBoxButton.OK, MessageBoxImage.Error);
@@ -98,16 +97,9 @@ namespace TourManagement
                 MessageBox.Show("Invalid username or password", "Wrong credentials", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
-            //if (u.Role == 3) //check role
-            //{
-            //    MessageBox.Show("You have no permission to access this function", "Access denied", MessageBoxButton.OK, MessageBoxImage.Warning);
-            //    return;
-            //}
-            //to do: phai thong bao sai gi
             MainWindow m = new();
-            //m.CurAccount = u; //đẩy acc sang main, 2 chàng trỏ 1 nàng 
+            m.CurAccount = u;
             m.ShowDialog();
-            //this.Hide(); ẩn chính màn hình login đi
         }
 
         private void QuitButton_Click(object sender, RoutedEventArgs e)

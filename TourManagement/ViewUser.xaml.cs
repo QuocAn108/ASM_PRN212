@@ -81,5 +81,23 @@ namespace TourManagement
                 this.Close();
             }
         }
+
+
+
+
+        private void SearchButton_Click_1(object sender, RoutedEventArgs e)
+        {
+            string keyword = SearchTextBox.Text;
+
+            if (System.Text.RegularExpressions.Regex.IsMatch(keyword, @"[^a-zA-Z0-9\s]"))
+            {
+                MessageBox.Show("Input contains invalid characters. Please only use letters, numbers, and spaces.");
+                return;
+            }
+
+            var results = _service.SearchMembers(keyword);
+            UserDataGrid.ItemsSource = results;
+        }
     }
 }
+

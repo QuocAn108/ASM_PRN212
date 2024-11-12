@@ -14,14 +14,25 @@
         </Grid.RowDefinitions>
         <Grid Grid.Row="0" Margin="0,0,0,20">
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="131*"/>
+                <ColumnDefinition Width="308*"/>
                 <ColumnDefinition Width="Auto"/>
             </Grid.ColumnDefinitions>
 
-            <TextBox x:Name="SearchTextBox" Margin="468,0,10,0" Padding="5" Width="400"  VerticalContentAlignment="Center" 
-                     />
-            <Button x:Name="SearchButton" Grid.Column="1" Content="Search" Padding="10,5"/>
-            <Label x:Name="HelloMSGLabel" Content="Hello" HorizontalAlignment="Left" Margin="23,0,0,0" VerticalAlignment="Center" Width="416"/>
+            <TextBox x:Name="LocationTextBox" Margin="116,0,433,0" Padding="5" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Center" Grid.ColumnSpan="2" />
+            <Button x:Name="SearchButton" Grid.Column="2" Content="Search" Padding="10,5" Height="58" VerticalAlignment="Top" RenderTransformOrigin="0.167,0.766" Margin="0,71,0,0" Click="SearchButton_Click" />
+            <Label Content="Location" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Height="44" Width="114" RenderTransformOrigin="0.422,0.765"/>
+            <Label Content="Tour" HorizontalAlignment="Left" Margin="198,59,0,0" VerticalAlignment="Top" Height="48" Width="116" Grid.Column="1"/>
+            <TextBox x:Name="TourTextBox" Margin="285,55,10,61" Padding="5" VerticalContentAlignment="Center" Grid.Column="1" />
+            <Label x:Name="HelloMSGLabel" Content="Hello" HorizontalAlignment="Left" Margin="10,-1,0,0" VerticalAlignment="Top" Width="416" Grid.ColumnSpan="2"/>
+
+            <!-- Add DatePickers for Start and End Date -->
+            <Label Content="Start Date" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Width="114"/>
+            <TextBox x:Name="StartDateTextBox" Margin="116,122,433,0" VerticalAlignment="Top" Height="50" Padding="5" Grid.ColumnSpan="2"/>
+
+            <Label Content="End Date" HorizontalAlignment="Left" Margin="198,124,0,0" VerticalAlignment="Top" Width="114" Grid.Column="1"/>
+            <TextBox x:Name="EndDateTextBox" Margin="285,122,10,0" VerticalAlignment="Top" Height="50" Padding="5" Grid.Column="1"/>
+
         </Grid>
         <DataGrid x:Name="TourDataGrid" Grid.Row="1" Margin="0,0,0,20" 
                   ColumnHeaderStyle="{StaticResource CustomDataGridColumnHeader}"

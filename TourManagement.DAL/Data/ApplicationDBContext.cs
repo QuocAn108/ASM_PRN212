@@ -32,7 +32,12 @@ namespace TourManagement.DAL.Data
                 {
                     throw new InvalidOperationException("Connection string is not initialized.");
                 }
-                optionsBuilder.UseSqlServer(connectionString);
+                optionsBuilder.UseSqlServer(connectionString, options =>
+                    options.EnableRetryOnFailure(
+                        maxRetryCount: 3,
+                        maxRetryDelay: TimeSpan.FromSeconds(5),
+                        errorNumbersToAdd: null
+                    ));
             }
         }
 

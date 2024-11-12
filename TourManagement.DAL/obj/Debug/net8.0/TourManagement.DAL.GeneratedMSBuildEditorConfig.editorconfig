@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TourManagement.DAL
-build_property.ProjectDir = C:\Users\lienm\source\repos\ASM_PRN212\TourManagement.DAL\
+build_property.ProjectDir = E:\Ki5-FPT\PRN-212\ASM\ASM_PRN212\TourManagement.DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

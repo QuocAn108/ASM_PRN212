@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +71,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "TourManagement\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\Login.xaml.cs",
+              "RelativeToolTip": "TourManagement\\Login.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:55:00.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TourManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\appsettings.json",
+              "RelativeToolTip": "TourManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T09:54:44.801Z",
+              "EditorCaption": ""
             }
           ]
         }

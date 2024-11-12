@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TourManagement.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b260916378964821945428c8fe067ef07719bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ab011adf9e64263d643de011e72e55ad79db366")]
 [assembly: System.Reflection.AssemblyProductAttribute("TourManagement.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TourManagement.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

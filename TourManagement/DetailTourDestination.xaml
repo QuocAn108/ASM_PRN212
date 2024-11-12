@@ -1,0 +1,40 @@
+﻿<Window x:Name="DetailTourDestination1" x:Class="TourManagement.DetailTourDestination"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourManagement"
+        mc:Ignorable="d"
+        Title="Detail Tour Destination" Height="476" Width="940" WindowStartupLocation="CenterScreen" Loaded="DetailTourDestination1_Loaded">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Type:" Grid.Row="0" Grid.Column="0" Style="{StaticResource LabelDetail}"/>
+        <TextBox x:Name="TypeTextBox" Grid.Row="0" Grid.Column="1" Margin="22,4,347,15" Style="{StaticResource TextBoxDetail}"/>
+
+        <Label Content="Tour Name:" Grid.Row="1" Grid.Column="0" Margin="0,10,0,58" Style="{StaticResource LabelDetail}"/>
+        <ComboBox x:Name="TourIdComboBox" Grid.Column="1" Margin="22,10,347,102" Grid.Row="1"/>
+        
+        <Label Content="Location Name:" Grid.Row="1" Grid.Column="0" Style="{StaticResource LabelDetail}" Margin="0,61,0,52"/>
+        <ComboBox x:Name="LocationIdComboBox" Grid.Column="1" Margin="22,61,347,51" Grid.Row="1"/>
+
+        <StackPanel Grid.Row="6" Style="{StaticResource StackPanelDetail}" Margin="0,91,77,-81" Grid.ColumnSpan="2">
+            <Button x:Name="SaveButton" Content="Save" Style="{StaticResource ButtonDetail}" Height="45" Width="293" Click="SaveButton_Click"/>
+            <Button x:Name="QuitButton" Content="Quit" Style="{StaticResource ButtonDetail}" Width="293" Click="QuitButton_Click"/>
+        </StackPanel>
+       
+    </Grid>
+</Window>

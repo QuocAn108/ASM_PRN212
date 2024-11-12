@@ -50,7 +50,7 @@
             <Button x:Name="ViewTDButton" Grid.Column="1" Content="View Tour Destination" Padding="10,5" Margin="0,0,10,0" Click="ViewTDButton_Click" />
             <Button x:Name="ViewButton" Grid.Column="2" Content="View Location" Padding="10,5" Margin="0,0,10,0" Click="ViewButton_Click" />
             <Button x:Name="UpdateButton" Grid.Column="3" Content="Update" Padding="10,5" Margin="0,0,10,0" Click="UpdateButton_Click" />
-            <Button x:Name="DeleteButton" Grid.Column="4" Content="Delete" Padding="10,5" Margin="0,0,10,0" Click="DeleteButton_Click"/>
+            <Button x:Name="DeleteButton" Grid.Column="4" Content="Delete" Padding="10,5" Margin="0,0,10,0" Click="DeleteButton_Click" Height="38" VerticalAlignment="Top"/>
             <Button x:Name="CreateButton" Grid.Column="5" Content="Create" Padding="10,5" Margin="0,0,10,0" Click="CreateButton_Click"/>
             <Button x:Name="QuitButton" Grid.Column="6" Content="Quit" Padding="10,5" Click="QuitButton_Click"/>
         </Grid>

@@ -1,0 +1,69 @@
+﻿<Window x:Class="TourManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TourManagement"
+        mc:Ignorable="d"
+        Title="Tour Management" Height="600" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="CanResizeWithGrip" Loaded="Window_Loaded">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Margin="0,0,0,20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="131*"/>
+                <ColumnDefinition Width="308*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="LocationTextBox" Margin="116,0,433,0" Padding="5" VerticalContentAlignment="Center" Height="50" VerticalAlignment="Center" Grid.ColumnSpan="2" />
+            <Button x:Name="SearchButton" Grid.Column="2" Content="Search" Padding="10,5" Height="58" VerticalAlignment="Top" RenderTransformOrigin="0.167,0.766" Margin="0,71,0,0" Click="SearchButton_Click" />
+            <Label Content="Location" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Height="44" Width="114" RenderTransformOrigin="0.422,0.765"/>
+            <Label Content="Tour" HorizontalAlignment="Left" Margin="198,59,0,0" VerticalAlignment="Top" Height="48" Width="116" Grid.Column="1"/>
+            <TextBox x:Name="TourTextBox" Margin="285,55,10,61" Padding="5" VerticalContentAlignment="Center" Grid.Column="1" />
+            <Label x:Name="HelloMSGLabel" Content="Hello" HorizontalAlignment="Left" Margin="10,-1,0,0" VerticalAlignment="Top" Width="416" Grid.ColumnSpan="2"/>
+
+            <!-- Add DatePickers for Start and End Date -->
+            <Label Content="Start Date" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top" Width="114"/>
+            <TextBox x:Name="StartDateTextBox" Margin="116,122,433,0" VerticalAlignment="Top" Height="50" Padding="5" Grid.ColumnSpan="2"/>
+
+            <Label Content="End Date" HorizontalAlignment="Left" Margin="198,124,0,0" VerticalAlignment="Top" Width="114" Grid.Column="1"/>
+            <TextBox x:Name="EndDateTextBox" Margin="285,122,10,0" VerticalAlignment="Top" Height="50" Padding="5" Grid.Column="1"/>
+
+        </Grid>
+        <DataGrid x:Name="TourDataGrid" Grid.Row="1" Margin="0,0,0,20" 
+                  ColumnHeaderStyle="{StaticResource CustomDataGridColumnHeader}"
+                  RowStyle="{StaticResource CustomDataGridRow}" CellStyle="{StaticResource CustomDataGridCell}"
+                  AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tour ID" Width="100" Binding="{Binding TourId}" />
+                <DataGridTextColumn Header="Tour Name" Width="200" Binding="{Binding TourName}"/>
+                <DataGridTextColumn Header="Price" Width="500" Binding="{Binding Price}" />
+                <DataGridTextColumn Header="Start Time" Width="100" Binding="{Binding StartTime}"/>
+                <DataGridTextColumn Header="Finish Time" Width="100" Binding="{Binding FinishTime}"/>
+                <DataGridTextColumn Header="Number Of Participate" Width="100" Binding="{Binding NumberOfParticipate}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Grid.Row="2" HorizontalAlignment="Right">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="ViewUserButton" Grid.Column="0" Content="View User" Padding="10,5" Margin="0,0,10,0" Click="ViewUserButton_Click" />
+            <Button x:Name="ViewTDButton" Grid.Column="1" Content="View Tour Destination" Padding="10,5" Margin="0,0,10,0" Click="ViewTDButton_Click" />
+            <Button x:Name="ViewButton" Grid.Column="2" Content="View Location" Padding="10,5" Margin="0,0,10,0" Click="ViewButton_Click" />
+            <Button x:Name="UpdateButton" Grid.Column="3" Content="Update" Padding="10,5" Margin="0,0,10,0" Click="UpdateButton_Click" />
+            <Button x:Name="DeleteButton" Grid.Column="4" Content="Delete" Padding="10,5" Margin="0,0,10,0" Click="DeleteButton_Click" Height="38" VerticalAlignment="Top"/>
+            <Button x:Name="CreateButton" Grid.Column="5" Content="Create" Padding="10,5" Margin="0,0,10,0" Click="CreateButton_Click"/>
+            <Button x:Name="QuitButton" Grid.Column="6" Content="Quit" Padding="10,5" Click="QuitButton_Click"/>
+        </Grid>
+    </Grid>
+</Window>

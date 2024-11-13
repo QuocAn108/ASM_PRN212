@@ -15,7 +15,11 @@
                         <ColumnDefinition Width="Auto"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
+<<<<<<< HEAD
                     <Image Source="C:\Users\ASUS\Desktop\ASM\TourManagement\Img\icons8-user-48.png" 
+=======
+                    <Image Source="E:\Ki5-FPT\PRN-212\ASM\ASM_PRN212\TourManagement\Img\icons8-user-48.png" 
+>>>>>>> 0bde7cf5e239c4d336c925709cccacbfdb4d2116
                            Stretch="Uniform" Height="33" Grid.Column="0" Margin="0,0,10,0"/>
                     <TextBox x:Name="UsernameTextBox" Text="Username" Margin="0,0,0,0" Height="30" Grid.Column="1" 
                              VerticalAlignment="Center" GotFocus="UsernameTextBox_GotFocus" LostFocus="UsernameTextBox_LostFocus"/>
@@ -25,7 +29,11 @@
                         <ColumnDefinition Width="Auto"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
+<<<<<<< HEAD
                     <Image Source="C:\Users\ASUS\Desktop\ASM\TourManagement\Img\pw.png" 
+=======
+                    <Image Source="E:\Ki5-FPT\PRN-212\ASM\ASM_PRN212\TourManagement\Img\pw.png" 
+>>>>>>> 0bde7cf5e239c4d336c925709cccacbfdb4d2116
                            Stretch="Uniform" Height="33" Width="36" Grid.Column="0" Margin="0,0,10,0"/>
                     <TextBox x:Name="PasswordTextBox" Text="Password" Margin="0,0,0,0" Height="30" Grid.Column="1" 
                              VerticalAlignment="Center" GotFocus="PasswordTextBox_GotFocus" LostFocus="PasswordTextBox_LostFocus"/>

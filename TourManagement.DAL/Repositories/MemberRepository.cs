@@ -11,7 +11,7 @@ namespace TourManagement.DAL.Repositories
     public class MemberRepository
     {
         private ApplicationDBContext _context;
-        public Member GetUser(string username, string password)
+        public Member? GetUser(string username, string password)
         {
             _context = new();
             return _context.Members.FirstOrDefault(x => x.Username.ToLower() == username.ToLower() && x.Password == password);
@@ -19,7 +19,7 @@ namespace TourManagement.DAL.Repositories
         public List<Member> GetAll()
         {
             _context = new ApplicationDBContext();
-            return _context.Members.Where(x=> x.Role != "AD").ToList();
+            return _context.Members.Where(x => x.Role != "AD").ToList();
         }
         public void Add(Member x)
         {
@@ -39,6 +39,13 @@ namespace TourManagement.DAL.Repositories
             _context = new();
             _context.Members.Remove(x);
             _context.SaveChanges();
+        }
+        public List<Member> SearchMembers(string keyword)
+        {
+            _context = new ApplicationDBContext();
+            return _context.Members
+                           .Where(x => x.FullName.Contains(keyword) || x.Role.Contains(keyword))
+                           .ToList();
         }
     }
 }

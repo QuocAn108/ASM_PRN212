@@ -1,54 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\ASM\\",
+  "WorkspaceRootPath": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\viewtourdestination.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewtourdestination.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\viewtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\viewtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement.dal\\repositories\\tourdestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\repositories\\tourdestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement.bll\\services\\tourdestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62CD112-99BF-445F-9ACA-3149719A9CB6}|TourManagement.BLL\\TourManagement.BLL.csproj|solutionrelative:tourmanagement.bll\\services\\tourdestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\detailtourdestination.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailtourdestination.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement.dal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\detailtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\detailtourdestination.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement.dal\\model\\tourdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DC339A6-DA34-4031-8B7F-28A25097299C}|TourManagement.DAL\\TourManagement.DAL.csproj|solutionrelative:tourmanagement.dal\\model\\tourdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\lienm\\source\\repos\\asm_prn212\\tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|c:\\users\\asus\\desktop\\asm\\tourmanagement\\login.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{4CDE8FB1-D544-4C9C-95F7-5A577120B7C4}|TourManagement\\TourManagement.csproj|solutionrelative:tourmanagement\\login.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -70,163 +42,77 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ViewTourDestination.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\ViewTourDestination.xaml.cs",
-              "RelativeDocumentMoniker": "TourManagement\\ViewTourDestination.xaml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\ViewTourDestination.xaml.cs",
-              "RelativeToolTip": "TourManagement\\ViewTourDestination.xaml.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAIwEkAAAAbAAAAAAAAAA==",
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:40:16.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\App.xaml",
-              "RelativeDocumentMoniker": "TourManagement\\App.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\App.xaml",
-              "RelativeToolTip": "TourManagement\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-09T08:18:51.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TourDestinationService.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.BLL\\Services\\TourDestinationService.cs",
-              "RelativeDocumentMoniker": "TourManagement.BLL\\Services\\TourDestinationService.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.BLL\\Services\\TourDestinationService.cs",
-              "RelativeToolTip": "TourManagement.BLL\\Services\\TourDestinationService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:22:54.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TourDestinationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
-              "RelativeDocumentMoniker": "TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
-              "RelativeToolTip": "TourManagement.DAL\\Repositories\\TourDestinationRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:21:55.947Z",
+              "WhenOpened": "2024-11-12T13:10:44.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ViewTourDestination.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\ViewTourDestination.xaml",
-              "RelativeDocumentMoniker": "TourManagement\\ViewTourDestination.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\ViewTourDestination.xaml",
-              "RelativeToolTip": "TourManagement\\ViewTourDestination.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-09T07:12:02.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetailTourDestination.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\DetailTourDestination.xaml.cs",
-              "RelativeDocumentMoniker": "TourManagement\\DetailTourDestination.xaml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\DetailTourDestination.xaml.cs",
-              "RelativeToolTip": "TourManagement\\DetailTourDestination.xaml.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAiwD0AAAANAAAAAAAAAA==",
+              "Title": "ApplicationDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TourManagement.DAL\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement.DAL\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "RelativeToolTip": "TourManagement.DAL\\Migrations\\ApplicationDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:01:23.579Z",
+              "WhenOpened": "2024-11-12T13:10:40.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetailTourDestination.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\DetailTourDestination.xaml",
-              "RelativeDocumentMoniker": "TourManagement\\DetailTourDestination.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\DetailTourDestination.xaml",
-              "RelativeToolTip": "TourManagement\\DetailTourDestination.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-09T06:46:15.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TourDestination.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.DAL\\Model\\TourDestination.cs",
-              "RelativeDocumentMoniker": "TourManagement.DAL\\Model\\TourDestination.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.DAL\\Model\\TourDestination.cs",
-              "RelativeToolTip": "TourManagement.DAL\\Model\\TourDestination.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:43:53.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.DAL\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "TourManagement.DAL\\Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement.DAL\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "TourManagement.DAL\\Data\\ApplicationDBContext.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswBwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:08:36.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\appsettings.json",
               "RelativeDocumentMoniker": "TourManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\lienm\\source\\repos\\ASM_PRN212\\TourManagement\\appsettings.json",
               "RelativeToolTip": "TourManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-08T16:03:52.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "TourManagement\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\Login.xaml.cs",
-              "RelativeToolTip": "TourManagement\\Login.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:17:51.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\Login.xaml",
-              "RelativeDocumentMoniker": "TourManagement\\Login.xaml",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\ASM\\TourManagement\\Login.xaml",
-              "RelativeToolTip": "TourManagement\\Login.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-06T07:17:47.394Z",
+              "WhenOpened": "2024-11-09T09:54:44.801Z",
               "EditorCaption": ""
             }
           ]

@@ -32,5 +32,11 @@ namespace TourManagement.BLL.Services
         {
             _memberRepo.Delete(x);
         }
+        public List<Member> SearchMembers(string keyword)
+        {
+            return _memberRepo.SearchMembers(keyword);
+        }
+
+
     }
 }
